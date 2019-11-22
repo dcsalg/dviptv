@@ -1,0 +1,52 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-chno="9" tvg-id="americatv.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"group-title="ARGENTINA",AMERICA TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+ 
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/c7a96-descarga.jpg" group-title="ARGENTINA",TV PUBLICA
+https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+ 
+#EXTINF:-1 tvg-chno="12" tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/17aee-elnuevenuevo.png?w=180&h=200" group-title="ARGENTINA",EL NUEVE
+https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc0MDc5MDIzLCJzZXNzaW9uIjoiMTg2LjEyMy4yMDAuNTgiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyMy4yMDAuNTgiXX0sInNpZ25hdHVyZSI6IjU0NTQ4YTg1OTZmMTY1NDg2NGQ5NzU4MWMwZTM4YTZlMTk5MmU5ZjUifQ==
+ 
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/ElTreceHD2012.jpg" group-title="ARGENTINA",El Trece
+
+#EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
+https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title="ARGENTINA",NET TV
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947370100490895361/aKkq8IYy_400x400.jpg" group-title="ARGENTINA", Multivision Salta
+http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
+ 
+ 
+#EXTINF:-1 type="stream" tvg-logo="https://logostvargentina.files.wordpress.com/2008/09/a24-logo2019.png?w=640" group-title="ARGENTINA", A24
+http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/234
+ 
+#EXTINF:-1 type="stream" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/01ccf-cronica-hd.png?w=320&h=61" group-title="ARGENTINA", Cronica HD
+https://g5.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+ 
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/3.png" group-title="ARGENTINA", Canal 26
+http://200.115.193.177/live/26hd-720/chunklist_w2010074499.m3u8
+ 
+#EXTINF:-1 type="stream" tvg-logo="https://www.newslinereport.com/online/nota_tn-se-renueva.jpg" group-title="ARGENTINA", TN
+http://162.251.61.189:33612/Ruiz/12345/203
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/C5NLOGO2017.png" group-title="ARGENTINA", C5N
+http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/232
+ 
+#EXTINF:-1 tvg-logo="http://radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="ARGENTINA", Power HD
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w528506640.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/887.png" group-title="ARGENTINA", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1229773025_b1828000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id="Music Top" tvg-name="Music Top" tvg-logo="http://www.dazplayer.com/img_chh/music_top.png" group-title="ARGENTINA",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="ARGENTINA",Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8

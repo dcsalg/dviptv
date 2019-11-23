@@ -10,8 +10,8 @@ https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
 #EXTINF:-1 tvg-chno="12" tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/17aee-elnuevenuevo.png?w=180&h=200" group-title="ARGENTINA",EL NUEVE
-https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc0MDc5MDIzLCJzZXNzaW9uIjoiMTg2LjEyMy4yMDAuNTgiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyMy4yMDAuNTgiXX0sInNpZ25hdHVyZSI6IjU0NTQ4YTg1OTZmMTY1NDg2NGQ5NzU4MWMwZTM4YTZlMTk5MmU5ZjUifQ==
- 
+https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc0NTYyNDU0LCJzZXNzaW9uIjoiMTg2LjEy
+
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/ElTreceHD2012.jpg" group-title="ARGENTINA",El Trece
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine

@@ -24,7 +24,7 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
  
 #EXTINF:-1 type="stream" tvg-logo="https://logostvargentina.files.wordpress.com/2008/09/a24-logo2019.png?w=640" group-title="ARGENTINA", A24
-http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/234
+http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/4679.ts
  
 #EXTINF:-1 type="stream" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/01ccf-cronica-hd.png?w=320&h=61" group-title="ARGENTINA", Cronica HD
 https://g5.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
@@ -33,10 +33,10 @@ https://g5.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all
 http://200.115.193.177/live/26hd-720/chunklist_w2010074499.m3u8
  
 #EXTINF:-1 type="stream" tvg-logo="https://www.newslinereport.com/online/nota_tn-se-renueva.jpg" group-title="ARGENTINA", TN
-http://162.251.61.189:33612/Ruiz/12345/203
+
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/C5NLOGO2017.png" group-title="ARGENTINA", C5N
-http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/232
+
  
 #EXTINF:-1 tvg-logo="http://radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="ARGENTINA", Power HD
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w528506640.m3u8

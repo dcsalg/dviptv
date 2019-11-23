@@ -60,3 +60,35 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/04/RAI_MOVIE.png" group-title="INTERNACIONAL", Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+
+#EXTINF:-------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="DEPORTES", DEPORTV
+https://contar-live.secure.footprint.net/hls-live/ionmicroremux-Deportv/_definst_/live/stream3.m3u8
+
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/969311694790021120/AhXbomVG_400x400.jpg" group-title="DEPORTES",DIRECTV SPORTS
+http://ecuaplaytv.com:8000/live/Arana2210/nqvUsNYz/64046.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
+http://ecuaplaytv.com:8000/live/Arana2210/nqvUsNYz/67472.m3u8
+#EXTINF:http://disfruta.net:80/mfallas22/5945456326/89
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
+http://disfruta.net:80/mfallas22/5945456326/90
+
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espn3.png&cquality=40" group-title="DEPORTES",ESPN 3
+
+#EXTINF:-1 group-title="DEPORTES",Fox Sports
+http://disfruta.net:80/mfallas22/5945456326/23450
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
+http://tv.latintvweb.com:25461/live/AMARTINEZ2/LD0rUAtlTR/1529.m3u8
+#EXTINF:http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/224
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
+http://tv.latintvweb.com:25461/live/AMARTINEZ2/LD0rUAtlTR/3180.m3u8
+
+#EXTINF:-1 tvg-logo="https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title="DEPORTES",TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_8.m3u8

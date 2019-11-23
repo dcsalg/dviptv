@@ -192,4 +192,30 @@ http://disfruta.net:80/lista1910221/yack1984/23400
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://banner2.kisspng.com/20180511/hpw/kisspng-warner-tv-television-channel-wb-channel-logo-tv-5af5dba36bf6b7.0659673515260619874422.jpg" group-title="CINE",Warner Channel
 
 
+#EXTINF:------------------------CAMARAS EN VIVO------------------------------
+
+#EXTINF:-1 group-title="CAMARAS EN VIVO",TIMES SQUARE 4K (USA)
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1277341975.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",TIMES SQUARE - STREET CAM (USA)
+http://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1658580428.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",TIMES SQUARE - SOUTH VIEW (USA)
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2130847334.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",STATUE OF LIBERTY (USA)
+http://video3.earthcam.com/fecnetwork/statueoflibertyHD.flv/chunklist_w936038745.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",BROOKLYN BRIDGE (USA)
+http://video3.earthcam.com/fecnetwork/3983.flv/chunklist_w1056811992.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",WALL STREET (USA)
+http://video3.earthcam.com/fecnetwork/chargingbull.flv/chunklist_w2086154480.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",5TH AVENUE (USA)
+http://video3.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",HIGH LINE (USA)
+http://video3.earthcam.com/fecnetwork/7384.flv/chunklist_w1400134337.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",COLUMBUS CIRCLE (USA)
+http://video3.earthcam.com/fecnetwork/6427.flv/chunklist_w868328454.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",EIFFEL TOWER (FRANCIA)
+http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/chunklist_w258546935.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",ABBEY ROAD CROSSING (UK)
+http://video3.earthcam.com:1935/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8
+#EXTINF:-1 group-title="CAMARAS EN VIVO",COPACABANA BEACH (BRASIL)
+http://video3.earthcam.com/fecnetwork/6593.flv/chunklist_w1727149754.m3u8
 

@@ -13,6 +13,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc0NTYzMTgzLCJzZXNzaW9uIjoiMTg2LjEyMy4yMDAuNTgiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyMy4yMDAuNTgiXX0sInNpZ25hdHVyZSI6IjY5YWZkOTQwOTQ3NWYyY2NkNjJmZTg2M2M3MGUzNTIyOGJiZjcyN2UifQ==
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/ElTreceHD2012.jpg" group-title="ARGENTINA",El Trece
+http://23.237.22.207:25461/tv-onlinehd/47_.m3u8?md5=5K3bAvQHCuS3d2AQHt3xvw&expires=1574550485
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
 https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
@@ -24,7 +25,7 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
  
 #EXTINF:-1 type="stream" tvg-logo="https://logostvargentina.files.wordpress.com/2008/09/a24-logo2019.png?w=640" group-title="ARGENTINA", A24
-http://beastiptv.tv:25461/live/kk7su@yahoo.com/2B7qYyzg89/4679.ts
+
  
 #EXTINF:-1 type="stream" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/01ccf-cronica-hd.png?w=320&h=61" group-title="ARGENTINA", Cronica HD
 https://g5.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
@@ -72,11 +73,11 @@ https://contar-live.secure.footprint.net/hls-live/ionmicroremux-Deportv/_definst
 http://ecuaplaytv.com:8000/live/Arana2210/nqvUsNYz/64046.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
-http://ecuaplaytv.com:8000/live/Arana2210/nqvUsNYz/67472.m3u8
+http://23.237.22.207:25461/tv-onlinehd/1_.m3u8?md5=zkhzmnnEaOLXAVnOcqDYTg&expires=1574550239
 #EXTINF:http://disfruta.net:80/mfallas22/5945456326/89
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
-http://disfruta.net:80/mfallas22/5945456326/90
+
 
 #EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espn3.png&cquality=40" group-title="DEPORTES",ESPN 3
 
@@ -85,7 +86,6 @@ http://disfruta.net:80/mfallas22/5945456326/23450
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
 http://tv.latintvweb.com:25461/live/AMARTINEZ2/LD0rUAtlTR/1529.m3u8
-#EXTINF:http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/224
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
 http://tv.latintvweb.com:25461/live/AMARTINEZ2/LD0rUAtlTR/3180.m3u8

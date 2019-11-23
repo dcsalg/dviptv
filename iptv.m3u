@@ -49,3 +49,14 @@ http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="ARGENTINA",Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+
+
+#EXTINF:-------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="INTERNACIONAL", TV GALICIA	
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Rai-Premium.png" group-title="INTERNACIONAL",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/04/RAI_MOVIE.png" group-title="INTERNACIONAL", Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8

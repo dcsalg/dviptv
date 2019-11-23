@@ -10,7 +10,7 @@ https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
 #EXTINF:-1 tvg-chno="12" tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/17aee-elnuevenuevo.png?w=180&h=200" group-title="ARGENTINA",EL NUEVE
-https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc0NTYyNDU0LCJzZXNzaW9uIjoiMTg2LjEy
+https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc0NTYyNDU0LCJzZXNzaW9uIjoiMTg2LjEyMy4yMDAuNTgiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyMy4yMDAuNTgiXX0sInNpZ25hdHVyZSI6Ijk4YThhYmZkODljMGE3MDRiYWEyZWE4MTMwMGFiZTBjY2U3YzgxOTIifQ==
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/ElTreceHD2012.jpg" group-title="ARGENTINA",El Trece
 
@@ -22,7 +22,6 @@ http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947370100490895361/aKkq8IYy_400x400.jpg" group-title="ARGENTINA", Multivision Salta
 http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
- 
  
 #EXTINF:-1 type="stream" tvg-logo="https://logostvargentina.files.wordpress.com/2008/09/a24-logo2019.png?w=640" group-title="ARGENTINA", A24
 http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/234

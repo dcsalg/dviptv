@@ -185,7 +185,7 @@ http://23.237.22.207:25461/tv-onlinehd/34_.m3u8?md5=FY0Mps1zim0EHSKkLzENZg&expir
 
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="CINE",Space
-
+http://23.237.22.207:25461/tv-onlinehd/39_.m3u8?md5=55Gx4Yr2-kVHVn1zcpxDww&expires=1574713981
 
 #EXTINF:-1 group-title="CINE",HBO
 http://23.237.22.207:25461/tv-onlinehd/29_.m3u8?md5=uLdlAUaodpdfQRVoXKQ0nw&expires=1574700177
@@ -213,10 +213,12 @@ http://23.237.22.207:25461/tv-onlinehd/30_.m3u8?md5=WaTjfIBJ3t3jCKrFlAeMIQ&expir
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="" group-title="CINE",TCM
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
+http://23.237.22.207:25461/tv-onlinehd/41_.m3u8?md5=Lrm4bxXN5Owh-zDdYpBpeQ&expires=1574714107
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/202px-TNT_Series.png" group-title="CINE",TNT Series
 
 #EXTINF: #EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="Universal Channel" tvg-logo="" group-title="CINE",Universal Channel
+http://23.237.22.207:25461/tv-onlinehd/76_.m3u8?md5=her51DyPSuTFE4JvQgEKXw&expires=1574714416
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://banner2.kisspng.com/20180511/hpw/kisspng-warner-tv-television-channel-wb-channel-logo-tv-5af5dba36bf6b7.0659673515260619874422.jpg" group-title="CINE",Warner Channel
 

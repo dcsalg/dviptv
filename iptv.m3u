@@ -69,7 +69,7 @@ http://216.244.65.66:25461/luisappVIP/SSFFV33455E/447
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery Channel
- 
+http://216.244.65.66:25461/luisappVIP/SSFFV33455E/389
 #EXTINF:-1 group-title="DOCUMENTALES",Discovery ID
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
@@ -104,11 +104,11 @@ https://contar-live.secure.footprint.net/hls-live/ionmicroremux-Deportv/_definst
 http://ecuaplaytv.com:8000/live/Arana2210/nqvUsNYz/64046.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
-http://23.237.22.207:25461/tv-onlinehd/1_.m3u8?md5=zkhzmnnEaOLXAVnOcqDYTg&expires=1574550239
+http://23.237.22.207:25461/tv-onlinehd/1_.m3u8?md5=VgKYlWZFggEfXUeZr-Vq6Q&expires=1574701995
 #EXTINF:http://disfruta.net:80/mfallas22/5945456326/89
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
-
+http://216.244.65.66:25461/luisappVIP/SSFFV33455E/477
 
 #EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espn3.png&cquality=40" group-title="DEPORTES",ESPN 3
 
@@ -116,10 +116,10 @@ http://23.237.22.207:25461/tv-onlinehd/1_.m3u8?md5=zkhzmnnEaOLXAVnOcqDYTg&expire
 http://disfruta.net:80/mfallas22/5945456326/23450
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
-http://tv.latintvweb.com:25461/live/AMARTINEZ2/LD0rUAtlTR/1529.m3u8
+http://23.237.22.207:25461/tv-onlinehd/25_.m3u8?md5=4DYGA42gv4olr6uFWLX4wQ&expires=1574701805
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
-http://tv.latintvweb.com:25461/live/AMARTINEZ2/LD0rUAtlTR/3180.m3u8
+http://23.237.22.207:25461/tv-onlinehd/24_.m3u8?md5=wx68UaGJbuAfop3vkDwNeQ&expires=1574701935
 
 #EXTINF:-1 tvg-logo="https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title="DEPORTES",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_8.m3u8
@@ -162,7 +162,7 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:--------------------------CINE-----------------------------------------
 
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ae.png", group-tirle="CINE", A&E
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/400
+
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="" group-title="CINE",AXN
 http://216.244.65.66:25461/luisappVIP/SSFFV33455E/400
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoBN-790x542.jpg" group-title="CINE",Cinecanal
@@ -174,7 +174,7 @@ http://216.244.65.66:25461/luisappVIP/SSFFV33455E/401
 #EXTINF:-1 tvg-logo="" group-title="CINE",Fox Series
 
 #EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760013_FOX-Action.png" group-title="CINE",Fox Action
-
+http://23.237.22.207:25461/tv-onlinehd/34_.m3u8?md5=FY0Mps1zim0EHSKkLzENZg&expires=1574702183
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINE",Fox Premium Family
 
 #EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="Fox Movies" tvg-logo="" group-title="CINE",Fox Movies
@@ -220,32 +220,4 @@ http://disfruta.net:80/lista1910221/yack1984/23400
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://banner2.kisspng.com/20180511/hpw/kisspng-warner-tv-television-channel-wb-channel-logo-tv-5af5dba36bf6b7.0659673515260619874422.jpg" group-title="CINE",Warner Channel
 
-
-
-#EXTINF:------------------------CAMARAS EN VIVO------------------------------
-
-#EXTINF:-1 group-title="CAMARAS EN VIVO",TIMES SQUARE 4K (USA)
-http://video3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1277341975.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",TIMES SQUARE - STREET CAM (USA)
-http://video3.earthcam.com/fecnetwork/9974.flv/chunklist_w1658580428.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",TIMES SQUARE - SOUTH VIEW (USA)
-http://video3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2130847334.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",STATUE OF LIBERTY (USA)
-http://video3.earthcam.com/fecnetwork/statueoflibertyHD.flv/chunklist_w936038745.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",BROOKLYN BRIDGE (USA)
-http://video3.earthcam.com/fecnetwork/3983.flv/chunklist_w1056811992.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",WALL STREET (USA)
-http://video3.earthcam.com/fecnetwork/chargingbull.flv/chunklist_w2086154480.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",5TH AVENUE (USA)
-http://video3.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",HIGH LINE (USA)
-http://video3.earthcam.com/fecnetwork/7384.flv/chunklist_w1400134337.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",COLUMBUS CIRCLE (USA)
-http://video3.earthcam.com/fecnetwork/6427.flv/chunklist_w868328454.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",EIFFEL TOWER (FRANCIA)
-http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/chunklist_w258546935.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",ABBEY ROAD CROSSING (UK)
-http://video3.earthcam.com:1935/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8
-#EXTINF:-1 group-title="CAMARAS EN VIVO",COPACABANA BEACH (BRASIL)
-http://video3.earthcam.com/fecnetwork/6593.flv/chunklist_w1727149754.m3u8
 

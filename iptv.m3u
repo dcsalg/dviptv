@@ -60,7 +60,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon" tvg-logo="" group-title="INFANTILES",Nickelodeon
 
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon network" tvg-logo="" group-title="INFANTILES",Cartoon network
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/447
+
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="" group-title="INFANTILES",Disney Channel
 
 
@@ -69,13 +69,12 @@ http://216.244.65.66:25461/luisappVIP/SSFFV33455E/447
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery Channel
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/389
+
 #EXTINF:-1 group-title="DOCUMENTALES",Discovery ID
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
 
 #EXTINF:-1  tvg-logo="" group-title="DOCUMENTALES",History
-#EXTINF:http://23.237.122.82:8080/History/index.m3u8?
  
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="Natgeo" tvg-logo="" group-title="DOCUMENTALES",National Geographic
 
@@ -101,19 +100,17 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 https://contar-live.secure.footprint.net/hls-live/ionmicroremux-Deportv/_definst_/live/stream3.m3u8
 
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/969311694790021120/AhXbomVG_400x400.jpg" group-title="DEPORTES",DIRECTV SPORTS
-http://ecuaplaytv.com:8000/live/Arana2210/nqvUsNYz/64046.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
 http://23.237.22.207:25461/tv-onlinehd/1_.m3u8?md5=VgKYlWZFggEfXUeZr-Vq6Q&expires=1574701995
 #EXTINF:http://disfruta.net:80/mfallas22/5945456326/89
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/477
 
 #EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espn3.png&cquality=40" group-title="DEPORTES",ESPN 3
 
 #EXTINF:-1 group-title="DEPORTES",Fox Sports
-http://disfruta.net:80/mfallas22/5945456326/23450
+http://23.237.22.207:25461/tv-onlinehd/5_.m3u8?md5=-4VqmRBnLtDE2sVbeVNw9Q&expires=1574713592
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
 http://23.237.22.207:25461/tv-onlinehd/25_.m3u8?md5=4DYGA42gv4olr6uFWLX4wQ&expires=1574701805
@@ -129,7 +126,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:--------------------------ENTRETENIMIENTO-----------------------------------------
 
 #EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E!" tvg-logo="" group-title="ENTRETENIMIENTO",E!
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/403
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdRFu3N8CjNiFxRqrWqNHRAWJJ8ROhDN8SKE5mLzE_oJ4NXP4"  group-title="ENTRETENIMIENTO",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
@@ -164,45 +161,48 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ae.png", group-tirle="CINE", A&E
 
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="" group-title="CINE",AXN
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/400
+
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoBN-790x542.jpg" group-title="CINE",Cinecanal
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/401
+http://23.237.22.207:25461/tv-onlinehd/44_.m3u8?md5=gEnYpF5ibK6hvjoNv-96Rg&expires=1574713528
 #EXTINF: #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="" group-title="CINE",Cinemax
 
 #EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox" tvg-logo="" group-title="CINE",Fox
 
 #EXTINF:-1 tvg-logo="" group-title="CINE",Fox Series
+http://23.237.22.207:25461/tv-onlinehd/35_.m3u8?md5=Z1Zsa-Rj9gbO8RlTUua0nw&expires=1574713861
 
 #EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760013_FOX-Action.png" group-title="CINE",Fox Action
 http://23.237.22.207:25461/tv-onlinehd/34_.m3u8?md5=FY0Mps1zim0EHSKkLzENZg&expires=1574702183
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINE",Fox Premium Family
 
 #EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="Fox Movies" tvg-logo="" group-title="CINE",Fox Movies
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/413
+
+
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premier
 
+
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="CINE",Space
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/163
+
 
 #EXTINF:-1 group-title="CINE",HBO
 http://23.237.22.207:25461/tv-onlinehd/29_.m3u8?md5=uLdlAUaodpdfQRVoXKQ0nw&expires=1574700177
 #EXTINF:-1 tvg-id="HBO2.mx" group-title="CINE",HBO 2
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/421
+http://23.237.22.207:25461/tv-onlinehd/30_.m3u8?md5=WaTjfIBJ3t3jCKrFlAeMIQ&expires=1574713319
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/422
+
 #EXTINF: #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO Plus
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/423
+
 #EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="CINE",HBO Signature
 
 #EXTINF:-1 tvg-id="Max.mx" tvg-name="max" tvg-logo="" group-title="CINE",Max
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/427
+
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-MAX-PRIME.jpg" group-title="CINE", Max Prime
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
-http://disfruta.net:80/lista1910221/yack1984/23400
+
 #EXTINF:http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:https://grifo2.mitopo.me/live/paramountchannel/index.m3u8?token=plrTR04y4-CmbLEebbEdGQ&expires=1570745230
 

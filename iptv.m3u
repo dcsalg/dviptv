@@ -165,7 +165,7 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoBN-790x542.jpg" group-title="CINE",Cinecanal
 http://23.237.22.207:25461/tv-onlinehd/44_.m3u8?md5=gEnYpF5ibK6hvjoNv-96Rg&expires=1574713528
 #EXTINF: #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="" group-title="CINE",Cinemax
-
+http://23.237.173.108:8080/tv-onlinehd/43_.m3u8?md5=GsHqvtqW0DyWWTqZrhDiHQ&expires=1574824819
 #EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox" tvg-logo="" group-title="CINE",Fox
 
 #EXTINF:-1 tvg-logo="" group-title="CINE",Fox Series

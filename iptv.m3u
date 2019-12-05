@@ -190,6 +190,7 @@ http://23.237.22.207:25461/tv-onlinehd/39_.m3u8?md5=55Gx4Yr2-kVHVn1zcpxDww&expir
 
 #EXTINF:-1 group-title="CINE",HBO
 http://tv.latintvweb.com:25461/live/giezimanuel7/16msZd8iBp/1039.m3u8
+
 #EXTINF:-1 tvg-id="HBO2.mx" group-title="CINE",HBO 2
 http://23.237.22.207:25461/tv-onlinehd/30_.m3u8?md5=WaTjfIBJ3t3jCKrFlAeMIQ&expires=1574713319
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family

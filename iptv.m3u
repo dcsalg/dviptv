@@ -173,6 +173,7 @@ http://23.237.22.207:25461/tv-onlinehd/35_.m3u8?md5=Z1Zsa-Rj9gbO8RlTUua0nw&expir
 
 #EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760013_FOX-Action.png" group-title="CINE",Fox Action
 http://server.stablechannels.tv/live/2zcvz1MvV/6uTwl80e1D/5986.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINE",Fox Premium Family
 
 #EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="Fox Movies" tvg-logo="" group-title="CINE",Fox Movies

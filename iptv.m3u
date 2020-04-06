@@ -20,7 +20,8 @@ https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title="ARGENTINA",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
- 
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947370100490895361/aKkq8IYy_400x400.jpg" group-title="ARGENTINA", Multivision Salta
 http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
  

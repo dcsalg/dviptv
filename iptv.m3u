@@ -10,7 +10,7 @@ https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
 #EXTINF:-1 tvg-chno="12" tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/17aee-elnuevenuevo.png?w=180&h=200" group-title="ARGENTINA",EL NUEVE
-https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTc1NTkwNzMxLCJzZXNzaW9uIjoiMTgxLjEzLjcwLjI4Iiwid2hpdGVsaXN0IjpbIjE4MS4xMy43MC4yOCJdfSwic2lnbmF0dXJlIjoiMjRiY2ZjOWE5ZTNjZGJmMmEyMDU5YzkyYzAzMTllYzA2YzlkYmJjMCJ9
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg4MTA2MjA5LCJzZXNzaW9uIjoiMTkwLjIyMC4xOTcuMTI3Iiwid2hpdGVsaXN0IjpbIjE5MC4yMjAuMTk3LjEyNyJdfSwic2lnbmF0dXJlIjoiNDA5MTBjOTM1YjkxODI4MWQ2NDRmM2Q5Zjg5M2Q1MzFlOGJmYjRhOSJ9
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/ElTreceHD2012.jpg" group-title="ARGENTINA",El Trece
 http://23.237.22.207:25461/tv-onlinehd/47_.m3u8?md5=5K3bAvQHCuS3d2AQHt3xvw&expires=1574550485

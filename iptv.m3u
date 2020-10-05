@@ -126,8 +126,8 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 
 #EXTINF:--------------------------ENTRETENIMIENTO-----------------------------------------
 
-#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E!" tvg-logo="" group-title="ENTRETENIMIENTO",E!
-
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="Telecinco" tvg-logo="" group-title="ENTRETENIMIENTO",TELECINCO
+http://80.30.217.21:9981/stream/channelid/2009295114
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdRFu3N8CjNiFxRqrWqNHRAWJJ8ROhDN8SKE5mLzE_oJ4NXP4"  group-title="ENTRETENIMIENTO",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8

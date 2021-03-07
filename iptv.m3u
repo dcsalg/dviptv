@@ -235,3 +235,5 @@ https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=PfczXUEcT21Zd2F1rkr
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://banner2.kisspng.com/20180511/hpw/kisspng-warner-tv-television-channel-wb-channel-logo-tv-5af5dba36bf6b7.0659673515260619874422.jpg" group-title="CINE",Warner Channel
 
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS", Miami TV
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8

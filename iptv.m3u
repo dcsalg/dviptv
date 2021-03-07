@@ -64,7 +64,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="" group-title="INFANTILES",Disney Channel
 
-#EXTINF:-1 tvg-id="" tvg-name="Paka-Paka" tvg-logo="" group-title="INFANTILES",Paka-Paka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",Paka-Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
 
 

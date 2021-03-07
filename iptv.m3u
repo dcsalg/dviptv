@@ -201,9 +201,9 @@ http://server.stablechannels.tv/live/2zcvz1MvV/6uTwl80e1D/5986.m3u8
 http://23.237.22.207:25461/tv-onlinehd/39_.m3u8?md5=55Gx4Yr2-kVHVn1zcpxDww&expires=1574713981
 
 #EXTINF:-1 group-title="CINE",HBO
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=rzt_tjn_YVlx4txwdHdJVw&e=1615168133
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=PfczXUEcT21Zd2F1rkrQWg&e=1615178000
 #EXTINF:-1 tvg-id="HBO2.mx" group-title="CINE",HBO 2
-http://23.237.22.207:25461/tv-onlinehd/30_.m3u8?md5=WaTjfIBJ3t3jCKrFlAeMIQ&expires=1574713319
+
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family
 
 #EXTINF: #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO Plus
@@ -215,7 +215,7 @@ http://23.237.22.207:25461/tv-onlinehd/30_.m3u8?md5=WaTjfIBJ3t3jCKrFlAeMIQ&expir
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-MAX-PRIME.jpg" group-title="CINE", Max Prime
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
-http://paramount.live.flumotion.com/live/playlist.m3u8
+
 
 #EXTINF:https://grifo2.mitopo.me/live/paramountchannel/index.m3u8?token=plrTR04y4-CmbLEebbEdGQ&expires=1570745230
 
@@ -226,12 +226,12 @@ http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="" group-title="CINE",TCM
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
-http://23.237.22.207:25461/tv-onlinehd/41_.m3u8?md5=Lrm4bxXN5Owh-zDdYpBpeQ&expires=1574714107
+
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/202px-TNT_Series.png" group-title="CINE",TNT Series
 
 #EXTINF: #EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="Universal Channel" tvg-logo="" group-title="CINE",Universal Channel
-http://23.237.22.207:25461/tv-onlinehd/76_.m3u8?md5=her51DyPSuTFE4JvQgEKXw&expires=1574714416
+
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://banner2.kisspng.com/20180511/hpw/kisspng-warner-tv-television-channel-wb-channel-logo-tv-5af5dba36bf6b7.0659673515260619874422.jpg" group-title="CINE",Warner Channel
 

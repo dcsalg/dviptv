@@ -93,6 +93,10 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/adtxiz8zv.m3u8?s=tF0aCbkit3C56Qyn
 
 #EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="INTERNACIONAL", TV GALICIA	
 http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="INTERNACIONAL", Telecinco
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Rai-Premium.png" group-title="INTERNACIONAL",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/04/RAI_MOVIE.png" group-title="INTERNACIONAL", Rai Movie

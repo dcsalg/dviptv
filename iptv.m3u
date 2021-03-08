@@ -26,19 +26,17 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
  
 #EXTINF:-1 type="stream" tvg-logo="https://logostvargentina.files.wordpress.com/2008/09/a24-logo2019.png?w=640" group-title="ARGENTINA", A24
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/f991f2a1-0755-4ec5-8396-b62d45590d25:SCL/master.m3u8
+
  
-#EXTINF:-1 type="stream" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/01ccf-cronica-hd.png?w=320&h=61" group-title="ARGENTINA", Cronica HD
+#EXTINF:-1 type="stream" tvg-logo="https://televisionlibre.net/img/logo_canal/Cronica_TV.png" group-title="ARGENTINA", Cronica HD
 https://g5.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
  
 #EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/3.png" group-title="ARGENTINA", Canal 26
 http://200.115.193.177/live/26hd-720/chunklist_w2010074499.m3u8
  
 #EXTINF:-1 type="stream" tvg-logo="https://www.newslinereport.com/online/nota_tn-se-renueva.jpg" group-title="ARGENTINA", TN
-
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/C5NLOGO2017.png" group-title="ARGENTINA", C5N
-http://216.244.65.66:25461/luisappVIP/SSFFV33455E/321
  
 #EXTINF:-1 tvg-logo="http://radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="ARGENTINA", Power HD
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w528506640.m3u8
@@ -120,13 +118,13 @@ https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161520894
 #EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espn3.png&cquality=40" group-title="DEPORTES",ESPN 3
 
 #EXTINF:-1 group-title="DEPORTES",Fox Sports
-https://content.uplynk.com/channel/8fac9e5f9b4f4e098efd2f88d77f8f57.m3u8?cqs=OPpirCY8ZbzLXzR-QiwSyfU9hwkgXrPSHvEzviLDO0ROV_Iu07NdlnvcLfzDZP11MgvUkUz6aTty8qhM08OG_4x4mxCJ6O5G01-I7INEha63U8oGWiaGEKD0sDcNJ9cxZjZaoT2v10BVnBrWj5JVt7V7tSwhAS12QqWXA_YBGvmGfQpHa-5txK3jtGO7zRziRicOeQ5zjKgrKcrHX3SiQXXtM4aG-8SZ7teFe7hm8XZvk_8FbeosIs3mrJtbDoQHVzNHKvH8L2vCwBzvP7zbWOoVUVAC7rwtv1Bb3K7A38zvoAqFidokihsxClm06xqdXhdAq54ZGhBXP1md6CD5ADtFEKWS8so9zQ4BbfJ7MmWCRPEg7QMDZ_n20IsmwEufkcfwNRVDGEn7vY-dvImSr3uW1qp9PuKBWXSgCiUOALAZAennRD2mqO2W_t7RyYvktFc9tb9Pr3bFxZqUZz8Mgg==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
-
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1615232273~exp=1615232873~acl=/*~hmac=f3bdaa5b7185947662e093873fdccbb11091521326849581faab01f5fe04ee5f
 
 #EXTINF:-1 tvg-logo="https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title="DEPORTES",TyC Sports
 https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8

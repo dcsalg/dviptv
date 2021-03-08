@@ -180,7 +180,8 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE",Fox Series
 
-#EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760013_FOX-Action.png" group-title="CINE",Fox Action
+#EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action" tvg-logo="https://televisionlibre.net/img/logo_canal/FOX_Action.png?D" group-title="CINE",Fox Action
+https://e1.espncdn.me/ingest02/68787.m3u8?sf=Vk44U1Bpd1QxaA==&token=2LKHUShOmbCqZolaJac7HQ&expires=1615245812&rnd=
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINE",Fox Premium Family
 

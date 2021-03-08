@@ -147,7 +147,7 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b14000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="ENTRETENIMIENTO",FASHION TV MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:0 tvg-logo="https://www.voytv.com/images/logos/retro_music_tv_cz.png" group-title="ENTRETENIMIENTO",RETRO MUSIC
+#EXTINF:0 tvg-logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png" group-title="ENTRETENIMIENTO",RETRO MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",RETRO PLUS

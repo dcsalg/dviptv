@@ -173,18 +173,14 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="" group-title="CINE",AXN
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoBN-790x542.jpg" group-title="CINE",Cinecanal
-http://23.237.173.108:8080/tv-onlinehd/43_.m3u8?md5=soE1H7fac060t6xE19nsew&expires=1574906968
 
 #EXTINF: #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="" group-title="CINE",Cinemax
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=5tBEID1pJw2jsEjbXUZKyw&e=1615169466
 
 #EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox" tvg-logo="" group-title="CINE",Fox
 
 #EXTINF:-1 tvg-logo="" group-title="CINE",Fox Series
-http://23.237.22.207:25461/tv-onlinehd/35_.m3u8?md5=Z1Zsa-Rj9gbO8RlTUua0nw&expires=1574713861
 
 #EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760013_FOX-Action.png" group-title="CINE",Fox Action
-http://server.stablechannels.tv/live/2zcvz1MvV/6uTwl80e1D/5986.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINE",Fox Premium Family
 
@@ -198,10 +194,9 @@ http://server.stablechannels.tv/live/2zcvz1MvV/6uTwl80e1D/5986.m3u8
 
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="CINE",Space
-http://23.237.22.207:25461/tv-onlinehd/39_.m3u8?md5=55Gx4Yr2-kVHVn1zcpxDww&expires=1574713981
 
 #EXTINF:-1 group-title="CINE",HBO
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=PfczXUEcT21Zd2F1rkrQWg&e=1615178000
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=rVFWrMty_0o9sUGm48Jm3g&e=1615184234
 #EXTINF:-1 tvg-id="HBO2.mx" group-title="CINE",HBO 2
 
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family

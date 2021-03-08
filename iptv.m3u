@@ -13,7 +13,6 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MjUyNDQxLCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6ImU5YTg3ZDI3ZDhiNjY2MDE1MjlmYTYzMWExMmNhZjI3MWI3NTQzNDEifQ==
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/ElTreceHD2012.jpg" group-title="ARGENTINA",El Trece
-http://23.237.22.207:25461/tv-onlinehd/47_.m3u8?md5=5K3bAvQHCuS3d2AQHt3xvw&expires=1574550485
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
 https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
@@ -152,7 +151,8 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/1ojmxycsqiiy8.m3u8?s=tonPVDnmOuvmLR641hCvEw&e=1615254860
+//http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",M2O TV (ITALIA)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on

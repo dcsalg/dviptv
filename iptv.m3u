@@ -174,14 +174,14 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoBN-790x542.jpg" group-title="CINE",Cinecanal
 
-#EXTINF: #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="" group-title="CINE",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
+https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=-WSbjZas739enbEAH5NkWQ&e=1615253615
 
 #EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox" tvg-logo="" group-title="CINE",Fox
 
 #EXTINF:-1 tvg-logo="" group-title="CINE",Fox Series
 
 #EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action" tvg-logo="https://televisionlibre.net/img/logo_canal/FOX_Action.png?D" group-title="CINE",Fox Action
-https://e1.espncdn.me/ingest02/68787.m3u8?sf=Vk44U1Bpd1QxaA==&token=RWu2qP5w51qID5ravOrbiw&expires=1615246092&rnd=
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINE",Fox Premium Family
 

@@ -181,7 +181,7 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CINE",Fox Series
 
 #EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action" tvg-logo="https://televisionlibre.net/img/logo_canal/FOX_Action.png?D" group-title="CINE",Fox Action
-https://telerium.digital/ingest02/68787.m3u8?sf=Vk44U1Bpd1QxaA==&token=118Hcgvpo_ei9Uelj8hMWg&expires=1615231931&rnd=68787
+https://e1.espncdn.me/ingest02/68787.m3u8?sf=Vk44U1Bpd1QxaA==&token=RWu2qP5w51qID5ravOrbiw&expires=1615246092&rnd=
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINE",Fox Premium Family
 

@@ -12,20 +12,14 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-chno="12" tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://televisionlibre.net/img/logo_canal/Canal_9.png" group-title="ARGENTINA",EL NUEVE
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MjUyNDQxLCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6ImU5YTg3ZDI3ZDhiNjY2MDE1MjlmYTYzMWExMmNhZjI3MWI3NTQzNDEifQ==
 
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/ElTreceHD2012.jpg" group-title="ARGENTINA",El Trece
-
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
 https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title="ARGENTINA",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947370100490895361/aKkq8IYy_400x400.jpg" group-title="ARGENTINA", Multivision Salta
 http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
- 
-#EXTINF:-1 type="stream" tvg-logo="https://logostvargentina.files.wordpress.com/2008/09/a24-logo2019.png?w=640" group-title="ARGENTINA", A24
-
  
 #EXTINF:-1 type="stream" tvg-logo="https://televisionlibre.net/img/logo_canal/Cronica_TV.png" group-title="ARGENTINA", Cronica HD
 https://g5.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
@@ -55,15 +49,6 @@ http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="INFANTILES",Chikos ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon" tvg-logo="" group-title="INFANTILES",Nickelodeon
-
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon network" tvg-logo="" group-title="INFANTILES",Cartoon network
-
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="" group-title="INFANTILES",Disney Channel
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INFANTILES",Paka-Paka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
-
 
 
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
@@ -120,7 +105,7 @@ https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
-https://content.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343.m3u8?cqs=-pt19pPyd03oWHij4l8OkIN2qn1VrY-clCryg30RlrprU2tqNXwtVaZcZfYaNg3qewdG8_scx9JI5fR3oY3DQhraUo1nMBZ-yO5pT58Wdb9h_1aAnI6B9t7eRmOIDv18EqbLizffm8VlYPASJh5pecyl_sN3xDrA7nhqD5yODAkvoDYCCS9oR4FIrXxQsdfo8g6PhBTQTH9Ez7QRyW9B288P8-rcaxwukDTLzwYse5wRG24X-uHpy_elEeL3u7FzjvP7TlfimHOGE5fyrTx4uDueF2Y6RCL6UijE69uAY9DwOFgikLDGPR7tChd_JMh2dzg1rzP0drcR7geH3gf3j-1yJKNwICgUY_KQ03TOgGHJShvdHxDvf8eeG2yUV_tdyVz38j12G466Codq8aJfXhPxhHNTVYdiwwbhKnZ9kq2_lrF3DxJVhdd3NOsdqVxzU8HfGYu1ramiX_gjD6eqTg==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
+https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615332781&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=d97e75a48abae8cccf9c2ef5d7bca4580fa13718a42f47cb75d4aa7e166ff4e2&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=4f31c89f4a83c1426ac7100baccd49d76680366e53fe664e21ceb92b1d8b7bb4&pbs=08e3cfd185c74299bf4c250b4e68a55d
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
 

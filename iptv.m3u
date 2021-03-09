@@ -109,7 +109,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/969311694790021120/AhXbomVG_400x400.jpg" group-title="DEPORTES",DIRECTV SPORTS
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
-https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161532694
+https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161516402
 
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813

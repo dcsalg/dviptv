@@ -123,7 +123,7 @@ https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813
 
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
-https://playback2.akamaized.net/streams/23200514_9558203_lsi1480cjnkrpa169a5_1/master.m3u8?dw=80&hdnts=exp=1615248701~acl=/streams/23200514_9558203_lsi1480cjnkrpa169a5_1/master.m3u8*~hmac=ad1e86f0aa760bf1a46f76975d1399112eaae4cc465d9c041c801813d3b28198
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1615248263~exp=1615248863~acl=/*~hmac=c9a266fe19804f38a7b1f6bda1fc1919efcd4d686622f9da019ab36e5c4ac6c9
 
 #EXTINF:-1 tvg-logo="https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title="DEPORTES",TyC Sports
 https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8

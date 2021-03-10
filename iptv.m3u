@@ -54,18 +54,19 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery Channel
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/8ha8ro.m3u8?s=X_rmFW6B2waba4_WXdBlbQ&e=1615383529
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery h&h
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/adtxiz8zv.m3u8?s=tF0aCbkit3C56QynXfl23A&e=1615167610
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/adtxiz8zv.m3u8?s=o_hw3MA7CARi-HtHSCPW4Q&e=1615383297
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="DOCUMENTALES",History
- 
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="Natgeo" tvg-logo="" group-title="DOCUMENTALES",National Geographic
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=Q30CcgLEhOJz5Gp9Cks1Nw&e=1615383578
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/zfwban4sppn0.m3u8?s=14bd3uDe3g7JhqXFHORpiQ&e=1615383612
 
 
 #EXTINF:--------------------------INTERNACIONAL-----------------------------------------
@@ -80,10 +81,9 @@ https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/chunklist_w645922347.m3u8
 
 #EXTINF:--------------------------DEPORTES-----------------------------------------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="DEPORTES", DEPORTV
-
 
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DIRECTV SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/969311694790021120/AhXbomVG_400x400.jpg" group-title="DEPORTES",DIRECTV SPORTS
+https://telerium.digital/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=i5D_S87p-DYh72qnvPQSYw&expires=1615362347&rnd=71388
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
 https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161532721
@@ -92,10 +92,10 @@ https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161532721
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
-https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615334463&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=d7f7bdc319dcaa459dc80cbb7c00a485052161381386059d9c78a6898258b9f6&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=6b1ef56d0b3ab5a02a6bc74fcfd051449e5ca45b6fb5ad60279046afd3e40be9&pbs=500b8aaee12f44f39dd45d25371ffa50
+https://content.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343.m3u8?cqs=ATV3p3O5_iGqSERrFlxQaxZ36paw81z_WoUPFPJ9z_ddGM5yOsZtxy5xSFvEPYkAyaIHvzOJJ7_RZqewj1CyKOobaofbRaCYDJCLeXUG8dtDjiv9LyeUPfWlqdFt7dwtTx2bFvAFi8inFuFRiG2fmGMICPpHT0UU-Nc4x8ifXPoiS2QP4BnsXtcTc8x3zExU8H3HATHAdyFyyfn1XmzwPirCuhfZlZ7KWgDm_o1gv_ZkbQfxU0ZJXu3eejbeBeZSvhzFsG9OFCMBtu6SCmoGtqeHcw5rWA78OE1yc75M1huoNiRUV2Gw8yqXE9mPJ_Pg2d1BRrveGEt46Gl5jXF_4m3bSzkwBuu7hOwlc7hEowvC4Nh42rkjksX5_pNQG4a5g6MMHJq3oEXfeXJDBp7mFEpUTWGRwS0yB7r7FakDVPb2PIZY2sGZlWXcqhcboOYFR38Jotssu-BcEAdT3si_Mw==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
-
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1615361819~exp=1615362419~acl=/*~hmac=2f16ab68ff1bbe24e4c2f1d4a0c58660b123036ee59f70b3961a80b45ae89905
 
 #EXTINF:-1 tvg-logo="https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title="DEPORTES",TyC Sports
 https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
@@ -132,22 +132,22 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:--------------------------CINE-----------------------------------------
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=1GjuMP_rcJyGvLn-MNRCPA&e=1615359877
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=jFkdK_xaVHL8qK4NYMtu3w&e=1615383163
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=zG02z6akfOyJu5ULF-iG3g&e=1615359964
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=OYUS5Jx3HutBUMScLrrisQ&e=1615383099
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/3cuvpp5n.m3u8?s=DTkiw4Ng2oM9q0i6GfnLVA&e=1615359502
 
 #EXTINF:-1 group-title="CINE",HBO
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=JYDqJrAQl0H7hio5Mijl3A&e=1615359655
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=LbryzLgtmewqt9OquszB0A&e=1615383014
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/vwchy5d.m3u8?s=jYGNPK2I1wYWSVWXxB-RsQ&e=1615359056
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/vwchy5d.m3u8?s=2ektvq3plktI2MnFzrk6-w&e=1615383219
 
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Studio Universal
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/d77wqro8917ua5z.m3u8?s=GuBnEtICxz1XtKy1kiEyFg&e=1615359781
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Studio Universal
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/d77wqro8917ua5z.m3u8?s=_VAaLgGKg3K_5pLowIJDWg&e=1615383368
 
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS", Miami TV
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8

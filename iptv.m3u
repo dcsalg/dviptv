@@ -10,7 +10,7 @@ https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
 #EXTINF:-1 tvg-chno="12" tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://televisionlibre.net/img/logo_canal/Canal_9.png" group-title="ARGENTINA",EL NUEVE
-https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1NDI0MDA5LCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6IjQwZTY3ZTI0YzFiMmYyYjNiYzM0N2NkMzRkMTRhYTU4ZTI3YzEyZGEifQ==
+https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1NDIzNTgxLCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6ImQwZmFjYTk5YmU0ODRjYjE2ZmI1NTQ0ZGE2NTdmNjVhMzQzYzVmZTkifQ==
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
 https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true

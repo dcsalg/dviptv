@@ -148,11 +148,10 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premier
-
 #EXTINF:-1 group-title="CINE",HBO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/vwchy5d.m3u8?s=jYGNPK2I1wYWSVWXxB-RsQ&e=1615359056
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Studio Universal
 

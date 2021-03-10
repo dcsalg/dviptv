@@ -132,13 +132,13 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:--------------------------CINE-----------------------------------------
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=jFkdK_xaVHL8qK4NYMtu3w&e=1615383163
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=NP9MuGqlbYoLARk-C9SCJQ&e=1615384824
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=OYUS5Jx3HutBUMScLrrisQ&e=1615383099
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/3cuvpp5n.m3u8?s=DTkiw4Ng2oM9q0i6GfnLVA&e=1615359502
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/3cuvpp5n.m3u8?s=_2VEhEcUynnskOzoepO60Q&e=1615384746
 
 #EXTINF:-1 group-title="CINE",HBO
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=LbryzLgtmewqt9OquszB0A&e=1615383014

@@ -27,10 +27,6 @@ https://g5.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all
 #EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/3.png" group-title="ARGENTINA", Canal 26
 http://200.115.193.177/live/26hd-720/chunklist_w2010074499.m3u8
  
-#EXTINF:-1 type="stream" tvg-logo="https://www.newslinereport.com/online/nota_tn-se-renueva.jpg" group-title="ARGENTINA", TN
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/C5NLOGO2017.png" group-title="ARGENTINA", C5N
- 
 #EXTINF:-1 tvg-logo="http://radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="ARGENTINA", Power HD
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w528506640.m3u8
  
@@ -62,8 +58,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery h&h
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/adtxiz8zv.m3u8?s=tF0aCbkit3C56QynXfl23A&e=1615167610
 
-#EXTINF:-1 group-title="DOCUMENTALES",Discovery ID
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 
@@ -72,8 +66,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="Natgeo" tvg-logo="" group-title="DOCUMENTALES",National Geographic
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
-
-#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="El Gourmet" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/ec559-elgourmet-2013.png" group-title="DOCUMENTALES",El Gourmet
 
 
 #EXTINF:--------------------------INTERNACIONAL-----------------------------------------

@@ -61,6 +61,7 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/adtxiz8zv.m3u8?s=tF0aCbkit3C56Qyn
 #EXTINF:-1 group-title="DOCUMENTALES",Discovery ID
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="DOCUMENTALES",History
  
@@ -76,13 +77,6 @@ https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/adtxiz8zv.m3u8?s=tF0aCbkit3C56Qyn
 #EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="INTERNACIONAL", TV GALICIA	
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="INTERNACIONAL", Telecinco
-https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Rai-Premium.png" group-title="INTERNACIONAL",Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 tvg-logo="http://xtrimtv.com/channels/wp-content/uploads/2018/04/RAI_MOVIE.png" group-title="INTERNACIONAL", Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
 
@@ -99,11 +93,6 @@ https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161532721
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="DEPORTES",ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813
 
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espn3.png&cquality=40" group-title="DEPORTES",ESPN 3
-
-#EXTINF:-1 group-title="DEPORTES",Fox Sports
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
 https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1615334463&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=d7f7bdc319dcaa459dc80cbb7c00a485052161381386059d9c78a6898258b9f6&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=6b1ef56d0b3ab5a02a6bc74fcfd051449e5ca45b6fb5ad60279046afd3e40be9&pbs=500b8aaee12f44f39dd45d25371ffa50
 
@@ -117,14 +106,9 @@ https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
 
 #EXTINF:--------------------------ENTRETENIMIENTO-----------------------------------------
 
-#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="Telecinco" tvg-logo="" group-title="ENTRETENIMIENTO",TELECINCO
-http://80.30.217.21:9981/stream/channelid/2009295114
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdRFu3N8CjNiFxRqrWqNHRAWJJ8ROhDN8SKE5mLzE_oJ4NXP4"  group-title="ENTRETENIMIENTO",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mVSLS/97643a87ce.png" group-title="ENTRETENIMIENTO", Fashion TV
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="ENTRETENIMIENTO",FASHION TV MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -151,69 +135,22 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 
 #EXTINF:--------------------------CINE-----------------------------------------
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ae.png", group-tirle="CINE", A&E
-
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="" group-title="CINE",AXN
-
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoBN-790x542.jpg" group-title="CINE",Cinecanal
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=VBGud1Tm5w3RuiBXFRhFTQ&e=1615255321
-
-#EXTINF:-1 tvg-id="Fox.mx" tvg-name="Fox" tvg-logo="" group-title="CINE",Fox
-
-#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Series
-
-#EXTINF:-1 tvg-id="foxaction.mx" tvg-name="Fox Action" tvg-logo="https://televisionlibre.net/img/logo_canal/FOX_Action.png?D" group-title="CINE",Fox Action
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINE",Fox Premium Family
-
-#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="Fox Movies" tvg-logo="" group-title="CINE",Fox Movies
-
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",Golden Premier
 
-
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="CINE",Space
-
 #EXTINF:-1 group-title="CINE",HBO
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=YRE_uDOzlzlA6fX2jRl-Og&e=1615270625
-
-#EXTINF:-1 tvg-id="HBO2.mx" group-title="CINE",HBO 2
-
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family
-
-#EXTINF: #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO Plus
-
-#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="CINE",HBO Signature
-
-#EXTINF:-1 tvg-id="Max.mx" tvg-name="max" tvg-logo="" group-title="CINE",Max
-
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-MAX-PRIME.jpg" group-title="CINE", Max Prime
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
-
-
-#EXTINF:https://grifo2.mitopo.me/live/paramountchannel/index.m3u8?token=plrTR04y4-CmbLEebbEdGQ&expires=1570745230
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Studio Universal
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="Sony Entertainment TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jXvIh78nGPd602IGEzQGoeTRcO5yLOGmX3sEVZDO-ubuJdiJ" group-title="CINE",Sony Entertainment TV
-
-#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="" group-title="CINE",TCM
-
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
-
-
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/202px-TNT_Series.png" group-title="CINE",TNT Series
-
-#EXTINF: #EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="Universal Channel" tvg-logo="" group-title="CINE",Universal Channel
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/d77wqro8917ua5z.m3u8?s=Si1Jlw6yVz0kxB_Bh2esXA&e=1615186412
-
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://banner2.kisspng.com/20180511/hpw/kisspng-warner-tv-television-channel-wb-channel-logo-tv-5af5dba36bf6b7.0659673515260619874422.jpg" group-title="CINE",Warner Channel
 
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS", Miami TV
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8

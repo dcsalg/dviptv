@@ -113,15 +113,14 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png" group-title="ENTRETENIMIENTO",RETRO MUSIC
-https://5e8e3691c1af4.streamlock.net:443/retrotv/retrotvHQ1/chunklist_w2091782863.m3u8
-#EXTINF:-1 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",RETRO PLUS
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/1ojmxycsqiiy8.m3u8?s=KsKSoH5p5BMyM10HPlJ6eQ&e=1615384892
-#EXTINF:-1 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF: http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",M2O TV (ITALIA)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
@@ -146,10 +145,10 @@ https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/3cuvpp5n.m3u8?s=_2VEhEcUynnskOzoe
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=-4GV-6gmWydg6eCw3WKsCw&e=1615425288
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/vwchy5d.m3u8?s=x9uj7rp_cetpJMEZmFKmhA&e=1615425552
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/vwchy5d.m3u8?s=dP6GYbxvxeruLwaEOC6x4A&e=1616146878
 
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Studio Universal
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/d77wqro8917ua5z.m3u8?s=wkTA9IgDTCDJu0hfTS1aHw&e=1615425730
 
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS", Miami TV
-http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+#EXTINF:  http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8

@@ -112,8 +112,9 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="ENTRETENIMIENTO",FASHION TV MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:0 tvg-logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png" group-title="ENTRETENIMIENTO",RETRO MUSIC
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Retro_Music_TV.png" group-title="ENTRETENIMIENTO",RETRO MUSIC
+https://5e8e3691c1af4.streamlock.net/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",RETRO PLUS
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8

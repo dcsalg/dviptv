@@ -46,7 +46,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_s
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/C5N.png" group-title="ARGENTINA",C5N
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616421462/ei/9U1YYIPyOraEobIPhrWS4Ao/ip/186.12.137.183/id/kt43n3r1jJo.1/source/yt_live_broadcast/requiressl/yes/tx/9430863/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSh1GU2j1D4oZdUWbLe7KRzd5rbMIElpqdW7uwo7KsQ0CIQCd-NOoXjCF-Nbsd4Lnijl7YUMGdqENdropCTP4aYcktw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TN.png" group-title="ARGENTINA",TN
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TN.png" group-title="ARGENTINA",TN Notícias
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616426781/ei/vWJYYNmuM_Hf1sQPpp-oyA0/ip/181.9.131.59/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/tx/9430863/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeilHyetHuL4XtmzPtlUGUTdM9ZkL9k0zKNzxxOwahwECIHVBEzdbiQ1lXd9aR62Tp56wnUJW5SfFV7z4fwo3ic3x/file/index.m3u8
 
 #EXTINF:--------------------------INFANTIL-----------------------------------------

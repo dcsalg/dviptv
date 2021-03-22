@@ -54,7 +54,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery Channel
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/8ha8ro.m3u8?s=X_rmFW6B2waba4_WXdBlbQ&e=1615383529
+http://5.128.90.97:1234/udp/239.1.5.1:1234
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery h&h
 https://mg79qkb28x4up6a.ezcdn462.net:8443/hls/adtxiz8zv.m3u8?s=HrGe3QkO0hnLu5RwE3I8gQ&e=1616360077

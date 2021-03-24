@@ -126,7 +126,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/MTV.png" group-title="ENTRETENIMIENTO",MTV
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/1ojmxycsqiiy8.m3u8?s=KsKSoH5p5BMyM10HPlJ6eQ&e=1615384892
+https://blackghost.live/play/teleclub-318.php?c=la-mtv-hd&f=.m3u8
 #EXTINF: http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",M2O TV (ITALIA)
@@ -155,7 +155,7 @@ https://blackghost.live/play/teleclub-318.php?c=la-HBO-2&f=.m3u8
 https://blackghost.live/play/teleclub-318.php?c=la-paramount-channel-hd&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Studio Universal
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/d77wqro8917ua5z.m3u8?s=rL_dB-OcG0JhC2OOLBWt9g&e=1616395556
+https://blackghost.live/play/teleclub-318.php?c=la-universal-channel&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="ADULTOS", Miami TV
 #EXTINF:  http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8

@@ -157,7 +157,7 @@ https://blackghost.live/play/teleclub-318.php?c=la-HBO-2&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
 https://blackghost.live/play/teleclub-318.php?c=la-paramount-channel-hd&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Studio Universal
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Studio Universal
 https://blackghost.live/play/teleclub-318.php?c=la-universal-channel&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",Warner Channel

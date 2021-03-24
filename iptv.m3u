@@ -140,7 +140,7 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:--------------------------CINE-----------------------------------------
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=NP9MuGqlbYoLARk-C9SCJQ&e=1615384824
+https://blackghost.live/play/lookplay-318.php?name=cinecanal&file=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
 https://blackghost.live/play/teleclub-318.php?c=la-cinemax&f=.m3u8

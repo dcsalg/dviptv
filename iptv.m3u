@@ -69,7 +69,7 @@ https://blackghost.live/play/teleclub-318.php?c=la-discovery-home-health&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES",History-Channel
+#EXTINF:-1 tvg-logo"https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History-Channel
 https://blackghost.live/play/teleclub-318.php?c=la-history-channel-hd&f=.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet

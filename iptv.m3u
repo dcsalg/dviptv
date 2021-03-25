@@ -101,11 +101,10 @@ https://sv.tsnt.xyz:443/espn/espn2o_sur_hd.m3u8
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
-https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1616659022&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=2a19b9ccfaa2c1b12752134d29604b1940d5317bb1ae1a537fc430b189cf8d6b&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=24cf78733c788c8cba333e31499bd1debe85f836a581c49a597326f53157ac91&pbs=a7400f56613b4e1f8d96cc44c72fcec9
-#EXTINF: https://blackghost.live/play/lookplay-318.php?name=fox_sports_1&file=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
+https://blackghost.live/play/lookplay-318.php?name=fox_sports_1&file=.m3u8|User-Agent=ExoPlayerDemo/1.0.0
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1616460112~exp=1616460712~acl=/*~hmac=86a7ba47bedd1dbca37d6d1f41a5d142bdeb582fc1b9ad53bd864f103a254bbf
+https://blackghost.live/play/tvghd-318.php?id=tnt-sports-en-vivo&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title="DEPORTES",TyC Sports
 https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8

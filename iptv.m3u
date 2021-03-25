@@ -13,7 +13,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://blackghost.live/play/wistream-318.php?cat=latinos&ch=canal9ar&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title="ARGENTINA",El Trece
-https://blackghost.live/play/wistream-318.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
 https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
@@ -44,10 +44,10 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_s
 #EXTINF: http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/C5N.png" group-title="ARGENTINA",C5N
-https://blackghost.live/play/wistream-318.php?cat=latinos&ch=c5n&k=black-ghost&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TN.png" group-title="ARGENTINA",TN Notícias
-https://blackghost.live/play/wistream-318.php?cat=latinos&ch=tn&k=black-ghost&f=.m3u8
+
 
 
 #EXTINF:--------------------------INFANTIL-----------------------------------------

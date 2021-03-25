@@ -82,7 +82,7 @@ https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/zfwban4sppn0.m3u8?s=14bd3uDe3g7Jh
 http://america-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Gen.png" group-title="INTERNACIONAL", GEN
-https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/chunklist_w645922347.m3u8?k=f69a0a36916a00ac4ca567d97283fd6b2bc51ca5c749260a7818d33d0e1ce4b9&exp=1615336439
+
 
 
 
@@ -90,7 +90,7 @@ https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/chunklist_w645922347.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS
-https://telerium.digital/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=Wpo0fjqvSyr6FgWtjXBj7Q&expires=1616621701&rnd=71388
+https://e6.espncdn.xyz/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=1848mzBJ4ULp_k0M9PQIKA&expires=1616672935&rnd=
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
 https://sv.tsnt.xyz:443/espn/espn2o_sur_hd.m3u8

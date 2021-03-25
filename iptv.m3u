@@ -13,7 +13,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://ar-elnueve-elnueve-live.ned.media:443//live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Nzk3NjE0LCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6Ijk0MGYwYzYzYjRiNjVlY2JmMmE0YjkxMTE2ODFiZWZmNWZmOTE3MjYifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title="ARGENTINA",El Trece
-https://blackghost.live/play/wistream-318.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/y27cg62dakhjo.m3u8?s=VujijQUhnvFJ7S6V8j1FGQ&e=1616733102
+#EXTINF: https://blackghost.live/play/wistream-318.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
 https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true

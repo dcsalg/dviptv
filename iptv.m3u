@@ -10,10 +10,10 @@ https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
 #EXTINF:-1 tvg-id="https://www.elnueve.com.ar/programacion/" tvg-logo="https://televisionlibre.net/img/logo_canal/Canal_9.png" group-title="ARGENTINA",EL NUEVE
-https://ar-elnueve-elnueve-live.ned.media:443//live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Nzk0MzA4LCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6ImI4Yzc0YjgwNzEzN2Q4YjY2ZjU0ODkzODczNTVhMzcxZDg3OWM2YWUifQ%3D%3D
+https://blackghost.live/play/wistream-318.php?cat=latinos&ch=canal9ar&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title="ARGENTINA",El Trece
-https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/y27cg62dakhjo.m3u8?s=O9UnQsL7hdv7bcphHDACQQ&e=1616466432
+https://blackghost.live/play/wistream-318.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
 https://g4.mc-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
@@ -44,10 +44,11 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_s
 #EXTINF: http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/C5N.png" group-title="ARGENTINA",C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616421462/ei/9U1YYIPyOraEobIPhrWS4Ao/ip/186.12.137.183/id/kt43n3r1jJo.1/source/yt_live_broadcast/requiressl/yes/tx/9430863/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSh1GU2j1D4oZdUWbLe7KRzd5rbMIElpqdW7uwo7KsQ0CIQCd-NOoXjCF-Nbsd4Lnijl7YUMGdqENdropCTP4aYcktw%3D%3D/file/index.m3u8
+https://blackghost.live/play/wistream-318.php?cat=latinos&ch=c5n&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TN.png" group-title="ARGENTINA",TN Notícias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616426781/ei/vWJYYNmuM_Hf1sQPpp-oyA0/ip/181.9.131.59/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/tx/9430863/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeilHyetHuL4XtmzPtlUGUTdM9ZkL9k0zKNzxxOwahwECIHVBEzdbiQ1lXd9aR62Tp56wnUJW5SfFV7z4fwo3ic3x/file/index.m3u8
+https://blackghost.live/play/wistream-318.php?cat=latinos&ch=tn&k=black-ghost&f=.m3u8
+
 
 #EXTINF:--------------------------INFANTIL-----------------------------------------
 

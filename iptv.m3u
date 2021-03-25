@@ -150,6 +150,9 @@ https://blackghost.live/play/teleclub-318.php?c=la-cinemax&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.saladeespera.com.pa/wp-content/uploads/2017/12/fx.jpg" group-title="CINE",FX
 https://blackghost.live/play/teleclub-318.php?c=la-fx-hd&f=.m3u8
 
+#EXTINF:-1 group-title="CINE",FXM
+https://blackghost.live/play/catorce-318.php?c=130
+
 #EXTINF:-1 group-title="CINE",HBO
 https://blackghost.live/play/play-318.php?c=a01g&f=.m3u8
 

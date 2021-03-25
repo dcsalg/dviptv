@@ -143,7 +143,7 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:--------------------------CINE-----------------------------------------
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-https://blackghost.live/play/zufree-318.php?c=275&f=.ts
+https://blackghost.live/play/wistream-318.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
 https://blackghost.live/play/teleclub-318.php?c=la-cinemax&f=.m3u8

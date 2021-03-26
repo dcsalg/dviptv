@@ -77,7 +77,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 https://blackghost.live/play/teleclub-325.php?c=la-history-channel-hd&f=.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
-https://blackghost.live/play/wistream-318.php?cat=latinos&ch=animalplanet&k=black-ghost&f=.m3u8
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=animalplanet&k=black-ghost&f=.m3u8
 
 
 #EXTINF:--------------------------INTERNACIONAL-----------------------------------------
@@ -145,7 +145,7 @@ http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:--------------------------CINE-----------------------------------------
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinecanal.png" group-title="CINE",Cinecanal
-https://blackghost.live/play/wistream-318.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://televisionlibre.net/img/logo_canal/Cinemax.png" group-title="CINE",Cinemax
 https://blackghost.live/play/teleclub-325.php?c=la-cinemax&f=.m3u8
@@ -154,7 +154,7 @@ https://blackghost.live/play/teleclub-325.php?c=la-cinemax&f=.m3u8
 https://blackghost.live/play/teleclub-325.php?c=la-fx-hd&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",FXM
-https://blackghost.live/play/catorce-318.php?c=130
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fxm&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=hbo&k=black-ghost&f=.m3u8

@@ -65,16 +65,16 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist.m3u8
 #EXTINF:--------------------------DOCUMENTALES-----------------------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery Channel
-https://blackghost.live/play/teleclub-318.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
+https://blackghost.live/play/teleclub-325.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/Discovery_H&H.png?" group-title="DOCUMENTALES",Discovery h&h
-https://blackghost.live/play/teleclub-318.php?c=la-discovery-home-health&f=.m3u8
+https://blackghost.live/play/teleclub-325.php?c=la-discovery-home-health&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="DOCUMENTALES",ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo"https://televisionlibre.net/img/logo_canal/History_Channel.png" group-title="DOCUMENTALES",History-Channel
-https://blackghost.live/play/teleclub-318.php?c=la-history-channel-hd&f=.m3u8
+https://blackghost.live/play/teleclub-325.php?c=la-history-channel-hd&f=.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTALES",Animal Planet
 https://blackghost.live/play/wistream-318.php?cat=latinos&ch=animalplanet&k=black-ghost&f=.m3u8
@@ -160,16 +160,16 @@ https://blackghost.live/play/catorce-318.php?c=130
 https://blackghost.live/play/wistream-318.php?cat=latinos&ch=hbo&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO 2
-https://blackghost.live/play/teleclub-318.php?c=la-HBO-2&f=.m3u8
+https://blackghost.live/play/teleclub-325.php?c=la-HBO-2&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
 https://blackghost.live/play/teleclub-318.php?c=la-paramount-channel-hd&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Studio Universal
-https://blackghost.live/play/teleclub-318.php?c=la-universal-channel&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="CINE",Universal Channel
+https://blackghost.live/play/teleclub-325.php?c=la-universal-channel&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",Warner Channel
-https://blackghost.live/play/zufree-318.php?c=359&f=.ts
+https://blackghost.live/play/teleclub-325.php?c=la-warner-hd&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",Sony Channel
 https://blackghost.live/play/teleclub-318.php?c=la-sony-hd&f=.m3u8

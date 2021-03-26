@@ -13,7 +13,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://ar-elnueve-elnueve-live.ned.media:443//live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Nzk3NjE0LCJzZXNzaW9uIjoiMTg2LjEyLjEzNy4xODMiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEyLjEzNy4xODMiXX0sInNpZ25hdHVyZSI6Ijk0MGYwYzYzYjRiNjVlY2JmMmE0YjkxMTE2ODFiZWZmNWZmOTE3MjYifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/El_Trece.png" group-title="ARGENTINA",El Trece
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/y27cg62dakhjo.m3u8?s=9uYABrWl1vOItQL_3GrA1A&e=1616772061
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
 #EXTINF: https://blackghost.live/play/wistream-318.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/ciudadmagazine.png" group-title="ARGENTINA", Ciudad Magazine
@@ -46,10 +46,10 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w347127728_b1296000_s
 #EXTINF: http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/C5N.png" group-title="ARGENTINA",C5N
-
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=c5n&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TN.png" group-title="ARGENTINA",TN Notícias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616772259/ei/Q6hdYOS7MIu95gTCgaagCg/ip/181.9.134.190/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/tx/9430863/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgRpc0mdCRCH9qpYh8iUqMFAR7IJFbMoqcnB3DWeGbFSgCIGtFE9g78y80deP1I-9kOon3CrlnbUjdAr40L3gYAV13/file/index.m3u8
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tn&k=black-ghost&f=.m3u8
 
 
 
@@ -94,7 +94,7 @@ https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/bsg12zvu4e01i7.m3u8?s=tGPpdfqGV9O
 
 
 #EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS
-https://e6.espncdn.xyz/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=1848mzBJ4ULp_k0M9PQIKA&expires=1616672935&rnd=
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=directv-sports&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
 https://sv.tsnt.xyz:443/espn/espn2o_sur_hd.m3u8
@@ -105,10 +105,10 @@ https://blackghost.live/play/wistream-318.php?cat=latinos&ch=espn2ar&k=black-gho
 #EXTINF: https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8?161524813
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",Fox Sports Premium
-https://blackghost.live/play/wistream-318.php?cat=latinos&ch=fox-sports-premium&k=black-ghost&f=.m3u8
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fox-sports-premium&k=black-ghost&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/DRnVgIfXcAE_0w3.jpg" group-title="DEPORTES",TNT Sports
-https://blackghost.live/play/tvghd-318.php?id=tnt-sports-en-vivo&f=.m3u8
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tnt-sports&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title="DEPORTES",TyC Sports
 https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
@@ -157,10 +157,10 @@ https://blackghost.live/play/teleclub-325.php?c=la-fx-hd&f=.m3u8
 https://blackghost.live/play/catorce-318.php?c=130
 
 #EXTINF:-1 group-title="CINE",HBO
-https://blackghost.live/play/wistream-318.php?cat=latinos&ch=hbo&k=black-ghost&f=.m3u8
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=hbo&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO 2
-https://blackghost.live/play/teleclub-325.php?c=la-HBO-2&f=.m3u8
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=hbo2&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE",PARAMOUNT
 https://blackghost.live/play/teleclub-325.php?c=la-paramount-channel-hd&f=.m3u8

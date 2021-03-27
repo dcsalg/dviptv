@@ -155,6 +155,9 @@ https://blackghost.live/play/teleclub-325.php?c=la-fx-hd&f=.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/FXM.png" group-title="CINE",FXM
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fxm&k=black-ghost&f=.m3u8
 
+#EXTINF:-1 group-title="CINE",Star channel
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fox&k=black-ghost&f=.m3u8
+
 #EXTINF:-1 group-title="CINE",HBO
 https://blackghost.live/play/tvghd-325.php?id=hbo-en-vivo&f=.m3u8
 

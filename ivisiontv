@@ -105,9 +105,6 @@ https://blackghost.live/play/wistream-325.php?cat=latinos&ch=telenovelas&k=black
 #EXTINF:--------------------------DEPORTES-----------------------------------------
 
 
-#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS
-https://blackghost.live/play/tvghd-325.php?id=directv-sports-en-vivo&f=.m3u8
-
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
 https://sv.tsnt.xyz:443/espn/espn2o_sur_hd.m3u8
 #EXTINF: https://sv.tsnt.xyz/espn/espn1o_sur_c.m3u8?161532721

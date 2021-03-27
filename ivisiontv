@@ -57,7 +57,7 @@ http://45.170.40.2:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="ARGENTINA",Volver 
 http://45.170.40.2:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg" group-title="ARGENTINA",Canal Rural 
+#EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="ARGENTINA",Canal Rural 
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 
 

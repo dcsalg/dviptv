@@ -54,9 +54,12 @@ https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tn&k=black-ghost&f=
 #EXTINF:-1 group-title="ARGENTINA",A24 
 http://45.170.40.2:8000/play/a017/index.m3u8
 
-
 #EXTINF:-1 group-title="ARGENTINA",Volver 
 http://45.170.40.2:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg" group-title="ARGENTINA",Canal Rural 
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:--------------------------INFANTIL-----------------------------------------
@@ -169,7 +172,7 @@ https://blackghost.live/play/teleclub-325.php?c=la-fx-hd&f=.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/FXM.png" group-title="CINE",FXM
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fxm&k=black-ghost&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="CINE",Star channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png" group-title="CINE",Star Channel
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fox&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO

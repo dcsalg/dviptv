@@ -51,6 +51,9 @@ https://blackghost.live/play/wistream-325.php?cat=latinos&ch=c5n&k=black-ghost&f
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TN.png" group-title="ARGENTINA",TN Notícias
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tn&k=black-ghost&f=.m3u8
 
+#EXTINF:-1 group-title="ARGENTINA",A24 
+http://45.170.40.2:8000/play/a017/index.m3u8
+
 
 
 #EXTINF:--------------------------INFANTIL-----------------------------------------

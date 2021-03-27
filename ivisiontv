@@ -54,7 +54,7 @@ https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tn&k=black-ghost&f=
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/A24.png?" group-title="ARGENTINA",A24 
 http://45.170.40.2:8000/play/a017/index.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA",Volver 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_volver_m.png" group-title="ARGENTINA",Volver 
 http://45.170.40.2:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvargentinahd.com/img/rural.png" group-title="ARGENTINA",Canal Rural 

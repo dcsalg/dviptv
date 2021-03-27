@@ -88,6 +88,10 @@ https://blackghost.live/play/wistream-325.php?cat=latinos&ch=animalplanet&k=blac
 #EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="INTERNACIONAL", TV GALICIA	
 http://america-crtvg.flumotion.com/playlist.m3u8
 
+#EXTINF:-1 group-title="INTERNACIONAL",TVE 
+http://45.71.202.210:50000/play/a020/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="INTERNACIONAL", TLN
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=telenovelas&k=black-ghost&f=.m3u8
 

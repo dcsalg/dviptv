@@ -166,7 +166,7 @@ https://blackghost.live/play/teleclub-325.php?c=la-fx-hd&f=.m3u8
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/FXM.png" group-title="CINE",FXM
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fxm&k=black-ghost&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="CINE",Star channel
+#EXTINF:-1 tvg-logo="https://static.wikia.https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CINE",Star channel
 https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fox&k=black-ghost&f=.m3u8
 
 #EXTINF:-1 group-title="CINE",HBO
